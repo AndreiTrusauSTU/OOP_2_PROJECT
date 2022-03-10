@@ -1,12 +1,93 @@
 админ = юзер
-продукт котрая покупаеться
+продукт котрый покупаеться
 за акцию платим
 цена увеличивает каждый юзер - ставит цену продукту
 продукты продаються каждый час
 после продажи - действие 
 продукт можно так же продавать
+пуш-уведомление - после продажи.размещения.изменения? вашего лота / 
 
 админ может дать денег юзерам
 
 продавать продукт только определенной группе ( пригласит са на продукт до определенного времяни )
 двух-этапный конкурс
+
+продажа старых пластинок. аудиокасет. сд диск.  
+
+Lsterio
+
+Цели и задачи проекта
+Целевая аудитория
+Назначение документа:
+Что мы будем разрабатывать, общее описание, будет ли административная часть
+платформы
+какую пользу приложение принесет пользователю.
+
+
+Приложение дает инструмент с помощью которого пользователи размещяют
+свои старые и очень раритетные вещи, те же самые пользователи могут 
+приобрести продукты уже выставленные в приложении. Представим что у вас на полке
+стоит старая плостинка и вы ее не слушаете - продайте ее в нашем приложении. 
+Что касается пользователей - мы расчитываем на любую аудиторию, от подростков вплоть до стариков.
+После регистрации данные пользователя будут сохранены у нас вы перейдете на страницу 
+где вы сможите добавить лот, изменить данные вашего профиля а так же увидеть все
+ранее созданные обявления. В вашем профиле вы сможите изменить авотар, добавить денег
+себе в профиль а так же изменить пароль. При добавлении лота вы сможете выбрать какой тип
+раритета вы продаете - пластнки, аудио-касеты или сд диски. Так же вам будет доступно
+добавление картинки вашего лота, характеристик таких как - год создания, автора, степень старости.
+После вы выберете стоимость за которую хотите что бы ваш лот был продан - ваше обьявление добавиться 
+в список. Давайте росмотрим наше приложение если вы захотите купить у нас что-то.
+На главной странице будут размещены картинки продуктов других пользователей, если вам что-то 
+понравиться - нажмите на нее. Вы перейдете на страницу лота. Вы сможете рассмотреть лот на картинке,
+прочитать описание, характеристики и цену. Лот будет доступен 3 часа после размещения
+однако после истечения 2 часов он будет показан в верху списка лотов а если вы добавите
+к цене - время увеличиться на 1 минуту - 3 часа и 1 минута. Добавить к лоту можно будет
+1% / 5% / 10% от его начальной цены. После продажи лота пользователю от пользователя 0,1% от итоговой
+цены будет списано в качестве коммиссии. Так же есть идея создания Админа который сможет изменяить характеристики
+лота, добавлять деньги пользователям, изменять имена и пароли пользователей.
+
+---------------------- EN
+
+The application provides a tool with which users post their old and very rare items, on the other hand users olso can
+purchase products already listed in the application. For example there is an old record on your shelf 
+and you do not listen to it - sell it in our application.
+As for users, we are counting on any audience, from teenagers to the elderly.
+After registration, user data will be stored with us, you will be redirected to the page
+where you can add a lot, change your profile data and see all
+previously created announcements. In your profile you can change your avatar, add money
+to your profile and change your password. When adding a lot, you can choose which type
+rarity you sell - records, audio cassettes or CDs. You will also have access to
+adding a picture of your lot, characteristics such as the year of creation, author, degree of age.
+After you choose the price for which you want your lot to be sold - your lot will be added
+to the list. Let's take a look at our app if you want to buy something from other users.
+On the main page, pictures of other users' products will be placed if you like something - click on it. 
+You will be redirected to the lot page. You can see the lot in the picture,
+read the description, specifications and price. Lot will be available 3 hours after placement
+however after 2 hours it will be shown at the top of the list of lots and if you add
+to the price - time increase by 1 minute - (3 hours and 1 minute). You can add to the lot
+1% / 5% / 10% of it's initial price. After the sale of the lot to the user from the user 0.1% of the total
+prices will be deducted as a commission. There is also an idea of ​​​​creating an Admin who can change the characteristics
+lot, add money to users, change user names and passwords.
+
+---------------------- SK
+
+Aplikácia poskytuje nástroj, pomocou ktorého užívatelia zverejňujú svoje staré a veľmi vzácne predmety, na druhej strane aj užívatelia môžu
+nákupit produkt už uvedený v aplikácii. Napríklad máte na poličke staru platnu
+a vy to nepočúvate - predajte to v našej aplikácii.
+Čo sa týka používateľov, počítame s akýmkoľvek publikom, od tínedžerov až po starších ľudí.
+Po registrácii budú u nás uložené užívateľské údaje, vy budete presmerovaní na stránku
+kde môžete pridať aukciu, zmeniť údaje v profile a bude vam zobrazene predtým vytvorené aukcii inych pouzivatelov.
+Vo svojom profile si môžete zmeniť avatara, pridať peniaze do svojho profilu a zmenit si heslo. 
+Keď pridávate aukciu, môžete si vybrať, ktorý typ aukcii predávate - platne, audiokazety alebo CD. 
+Budete mať tiež prístup k pridavaniu obrázku vašeho inzeratu, charakteristiky ako napriklad rok vytvorenia, autor, stupeň poskodenia.
+Potom, čo si vyberiete cenu, za ktorú chcete, aby sa váša aukcia predala, bude váš inzerat pridaný
+do zoznamu. Pozrime sa na našu aplikáciu, ak si chcete niečo kúpiť od iných používateľov.
+Na hlavnej stránke budú umiestnené obrázky produktov iných užívateľov, ak sa vám niečo páči - kliknite na to.
+Budete presmerovaní na stránku inzeratu. Na obrázku vidíte produkt,
+prečítajte si popis, špecifikácie a cenu. Položka bude k dispozícii 3 hodiny po umiestnení
+avšak po 2 hodinách sa zobrazí v hornej časti zoznamu položiek a ak pridáte
+k cene - zvýšite čas o 1 minútu - (3 hodiny a 1 minútu). Môžete pridať do ceny
+1 % / 5 % / 10 % z pôvodnej ceny. Po predaji inzeratu užívateľovi od užívateľa 0,1 % z celkovej sumy
+ceny budú odpočítané ako provízia. Existuje tiež myšlienka vytvorenia správcu, ktorý môže meniť vlastnosti
+inzeratu, pridávať peniaze používateľom, meniť používateľské mená a heslá.
+
