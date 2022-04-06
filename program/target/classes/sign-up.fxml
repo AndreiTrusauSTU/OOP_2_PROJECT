@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sk.fiit.trusau.project2.signUpPage.SignUpPageController">
+   <children>
+      <AnchorPane prefHeight="500.0" prefWidth="400.0">
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="136.0" layoutY="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="images/lstudio_logo_1.png" />
+               </image>
+            </ImageView>
+            <Label alignment="CENTER" layoutX="164.0" layoutY="221.0" prefHeight="37.0" prefWidth="73.0" text="Sign Up" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial" size="20.0" />
+               </font>
+            </Label>
+            <Separator layoutX="101.0" layoutY="257.0" prefWidth="200.0" />
+            <TextField fx:id="signupPage_textField_username" layoutX="126.0" layoutY="276.0" promptText="username" />
+            <TextField fx:id="signupPage_textField_password" layoutX="126.0" layoutY="316.0" promptText="password" />
+            <Button fx:id="signupPage_button_signUp" layoutX="176.0" layoutY="398.0" mnemonicParsing="false" text="Create" textAlignment="CENTER" />
+            <Button fx:id="signupPage_button_login" alignment="CENTER" layoutX="217.0" layoutY="362.0" mnemonicParsing="false" style="-fx-background-color: transparent;" text="Log in." textFill="BLUE" underline="true" />
+         </children>
+      </AnchorPane>
+   </children>
+</HBox>

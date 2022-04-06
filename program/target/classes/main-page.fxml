@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sk.fiit.trusau.project2.mainPage.MainPageController">
+   <children>
+      <AnchorPane prefHeight="500.0" prefWidth="400.0">
+         <children>
+            <Button fx:id="mainPage_button_proffile" layoutX="345.0" layoutY="14.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="41.0" text="User" />
+            <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="86.0" text="Button" />
+            <Button layoutX="114.0" layoutY="14.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="86.0" text="Button" />
+            <Button layoutX="215.0" layoutY="14.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="86.0" text="Button" />
+            <Label fx:id="mainPage_label_helloMassege" layoutX="14.0" layoutY="76.0" prefHeight="30.0" prefWidth="186.0" text="Hello Name" />
+         </children>
+      </AnchorPane>
+   </children>
+</HBox>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sk.fiit.trusau.project2.adminPage.AdminPageController">
+   <children>
+      <AnchorPane prefHeight="500.0" prefWidth="400.0">
+         <children>
+            <Label alignment="CENTER" layoutX="141.0" layoutY="57.0" prefHeight="37.0" prefWidth="118.0" text="Admin Page" textAlignment="CENTER">
+               <font>
+                  <Font name="Arial" size="20.0" />
+               </font>
+            </Label>
+            <Separator layoutX="100.0" layoutY="94.0" prefWidth="200.0" />
+            <SplitMenuButton fx:id="adminPage_Button_splitMenu" layoutX="151.0" layoutY="134.0" mnemonicParsing="false" text="Select User" />
+            <Button fx:id="adminPage_Button" layoutX="174.0" layoutY="238.0" mnemonicParsing="false" text="Button" />
+            <TextArea fx:id="adminPage_TextArea" layoutX="136.0" layoutY="179.0" prefHeight="37.0" prefWidth="129.0" />
+            <Button fx:id="adminPage_Button_logOut" layoutX="171.0" layoutY="442.0" mnemonicParsing="false" text="Log Out" />
+         </children>
+      </AnchorPane>
+   </children>
+</HBox>
